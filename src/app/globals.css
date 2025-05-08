@@ -40,3 +40,10 @@ a {
     color-scheme: dark;
   }
 }
+
+.bigtitle {
+  font-size: 5em;
+}
+.striked {
+  text-decoration: line-through;
+}
